@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Imgrefresher from "./images/logo.gif";
+import Imgrefresher from "./images/logo.jpeg";
 import "./Navbar.css";
 import SearchIcon from "@mui/icons-material/Search";
 import MenuIcon from "@mui/icons-material/Menu";
